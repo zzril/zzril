@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @zzril from Cologne, Germany.
-- 👀 My main interests are systems programming, compilers & interpreters and IT-Security.
-- 💬 I mainly speak C, Java, x86-64 assembly, Python and some Ruby.
-- 🌱 Aside from programming, I like playing CTFs, and chess.
+Chess player, coaster enthusiast, programmer, CTF player, reverse engineer. And a fan of Irish music.
+
+Experienced in C, Python, Java, x86-64 assembly, C++, ...
 
 <!---
 zzril/zzril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
