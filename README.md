@@ -2,7 +2,7 @@ Chess player, coaster enthusiast, programmer, CTF player, reverse engineer. And 
 
 Experienced in C, Python, Java, x86-64 assembly, C++, ...
 
-I'm currently working on creating my own audio programming language, [aula](/aula).
+I'm currently working on creating my own audio programming language, [aula](https://github.com/zzril/aula).
 
 <!---
 zzril/zzril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
