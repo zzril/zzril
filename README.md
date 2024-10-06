@@ -1,4 +1,4 @@
-Chess player, coaster enthusiast, programmer, CTF player, reverse engineer. And a fan of Irish music.
+Chess player, coaster enthusiast, programmer, reverse engineer. And a fan of Irish music.
 
 Experienced in C, Python, Java, x86-64 assembly, C++, ...
 
